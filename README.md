@@ -77,7 +77,7 @@
 
 아래 사진은 수신한 데이터 중 일부를 보여주고, 그래프는 시간에 따른 모터 온도의 변화를 시각화한 것이다. 약 600m의 경기장을 16~18바퀴 주행했을 당시 실제 모터 온도의 변화를 확인할 수 있다.
 <p align="center">
-<img src="https://github.com/HarrysK99/Vehicle-Embedded-System/assets/81846798/1f6f87d0-04c3-47aa-a7a3-118a9181ba1f" width="230" height="300"> <img src="https://github.com/HarrysK99/Vehicle-Embedded-System/assets/81846798/616e49d7-95bd-4b00-a5a9-e502abf75234" width="500" height="300">
+<img src="https://github.com/HarrysK99/Vehicle-Embedded-System/assets/81846798/1f6f87d0-04c3-47aa-a7a3-118a9181ba1f" width="150" height="200"> <img src="https://github.com/HarrysK99/Vehicle-Embedded-System/assets/81846798/616e49d7-95bd-4b00-a5a9-e502abf75234" width="500" height="300">
 </p>
 <br>
 
